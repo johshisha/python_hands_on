@@ -3,6 +3,12 @@
 - gitのインストール
     - ubuntu: `$ sudo apt-get install git`
     - mac: `$ brew install git`
+    初期設定
+    ```
+    $ git config --global user.name "あなたの名前"
+    $ git config --global user.email "あなたのメールアドレス"
+    $ git config --global core.editor 'vim -c "set fenc=utf-8"'
+    ```
 - pyenvのインストール＆設定
     zshの人は`~/.bash_profile` -> `~/.zshrc`に変更してください．
     ```

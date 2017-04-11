@@ -3,7 +3,7 @@
 
 ## 目次
 - [開発環境構築](./development_environments)
-- [gitを学ぼう](./github)
+- [gitを学ぼう](./git)
 - [pythonの文法を学ぼう](./grammar)
 - [jupyterを使おう](./jupyter)
 - [pythonで機械学習をしよう](./machine_learning)
