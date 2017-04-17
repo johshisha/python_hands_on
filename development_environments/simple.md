@@ -31,4 +31,4 @@
     $ python2 --version
     Python 2.7.12
     ```
-    （おまけ）virtualenvもインストールするといいかも（[参考資料](http://qiita.com/Kodaira_/items/feadfef9add468e3a85b])）
+    （おまけ）virtualenvもインストールするといいかも（[参考資料](http://qiita.com/Kodaira_/items/feadfef9add468e3a85b)）
